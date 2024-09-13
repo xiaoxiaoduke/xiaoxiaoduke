@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Xiaoxiao Zhou (周筱筱), an Assistant Professor in the Department of Biostatistics at the University of Alabama at Birmingham.
+- 👋 Hi, I’m Xiaoxiao Zhou (周筱筱), an Assistant Professor in the Department of Biostatistics at the University of Alabama at Birmingham, starting in August 2024. Before this, I completed my postdoctoral fellowship at Duke University in the Department of Statistical Science under the mentorship of Fan Li.
 
-- 🔬 My passion lies in real-world applications in biomedicine, focusing on causal inference. Besides, I delve into longitudinal data analysis and survival analysis, exploring ways to unlock insights from complex datasets.
+- 🔬 My research passion lies in applying statistical methods to real-world challenges, with a focus on causal inference. I specialize in intercurrent events, causal mediation analysis, longitudinal data analysis, and survival analysis, aiming to extract meaningful insights from complex datasets.
 
 - 👀 Outside of academia, you'll find me immersed in activities like weight lifting, mountain hiking, wall climbing, and running—always up for a new adventure!
 
